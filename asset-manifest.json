@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Testing_structure/static/css/main.acf86422.chunk.css",
+    "main.js": "/Testing_structure/static/js/main.17fcb24d.chunk.js",
+    "main.js.map": "/Testing_structure/static/js/main.17fcb24d.chunk.js.map",
+    "runtime-main.js": "/Testing_structure/static/js/runtime-main.c6236ee8.js",
+    "runtime-main.js.map": "/Testing_structure/static/js/runtime-main.c6236ee8.js.map",
+    "static/js/2.01332be9.chunk.js": "/Testing_structure/static/js/2.01332be9.chunk.js",
+    "static/js/2.01332be9.chunk.js.map": "/Testing_structure/static/js/2.01332be9.chunk.js.map",
+    "index.html": "/Testing_structure/index.html",
+    "static/css/main.acf86422.chunk.css.map": "/Testing_structure/static/css/main.acf86422.chunk.css.map",
+    "static/js/2.01332be9.chunk.js.LICENSE.txt": "/Testing_structure/static/js/2.01332be9.chunk.js.LICENSE.txt",
+    "static/media/java.8be0d2bb.jfif": "/Testing_structure/static/media/java.8be0d2bb.jfif",
+    "static/media/py.8e29b6f1.jfif": "/Testing_structure/static/media/py.8e29b6f1.jfif",
+    "static/media/ruby.49b31cce.jfif": "/Testing_structure/static/media/ruby.49b31cce.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6236ee8.js",
+    "static/js/2.01332be9.chunk.js",
+    "static/css/main.acf86422.chunk.css",
+    "static/js/main.17fcb24d.chunk.js"
+  ]
+}
