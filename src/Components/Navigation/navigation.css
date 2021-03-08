@@ -1,0 +1,17 @@
+
+.navbar-light .navbar-nav .nav-item{
+    margin : 0 10px;
+}
+
+.nav-item {
+    font-weight: 600;
+  }
+  
+  .navbar-brand img {
+    margin-left: 100%;
+  }
+  
+  .nav-item:hover .navi {
+    color: gold !important;
+  }
+  
